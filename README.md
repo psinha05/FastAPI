@@ -51,20 +51,13 @@ pip install -r requirements.txt
 
 
 🚀 Running the App
-bash
-Copy
-Edit
 uvicorn main:app --reload
+
 Open in browser:
-
-cpp
-Copy
-Edit
 http://127.0.0.1:8000
+
 Docs:
-
 Swagger UI: /docs
-
 ReDoc: /redoc
 
 🧪 Example Endpoints
